@@ -1,0 +1,12 @@
+name: "learning-materials"
+title: "Elizabeth Oneita Davis's Collected R Learning Materials"
+description: |
+  Elizabeth Oneita Davis's Collected R Learning Materials
+output_dir: "docs"
+navbar:
+  right:
+    - text: "Home"
+      href: index.html
+    - text: "About"
+      href: about.html
+output: distill::distill_article
