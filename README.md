@@ -1,3 +1,4 @@
 # learning-materials
 Learning materials blog for future students
-A line I wrote on my local computer
+
+This is a line from R Studio
