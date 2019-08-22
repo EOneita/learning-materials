@@ -1,5 +1,5 @@
 ---
-title: "Elizabeth Oneita Davis's Collected R Learning Materials"
+title: "Collected R Learning Materials"
 site: distill::distill_website
 listing: posts
 ---

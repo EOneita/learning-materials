@@ -1,0 +1,64 @@
+---
+title: "A Collection of Useful Sites and People"
+description: |
+  **R** can be confusing and scary, but here are some resources that I hope will be helpful.
+categories:
+  - tidyverse
+  - rstats
+  - reproducibility
+author:
+  - name: Elizabeth Oneita Davis
+date: 08-22-2019
+output:
+  distill::distill_article:
+    toc: true
+    toc_depth: 2
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+library(emo)
+```
+
+## General R Help and Learning
+
+>The most important resources on this page are **"How do I read a help file?"** and  **"decoding error messages in R"**. Trust me! Understanding these will change your life for the better.
+
+### People 
+**[Danielle Navarro](https://twitter.com/djnavarro)** is an #rstats guru who is also very humble, funny, and helpful. She blogs about her experiences (and often frustrations!) with R, which shows that learning R is a constant process. In fact, she has been updating her very popular book **[Learning Statistics with R](https://learningstatisticswithr.com/)**, which has been invaluable for R users everywhere ![](_site/images/partyr.gif).
+
+**Maëlle Salmon** has an extensive [blog](https://masalmon.eu/) where she provides helpful tips and tricks and posts about interesting projects she is doing. Like Danielle, she is really active on [Twitter](https://twitter.com/ma_salmon).
+
+**Mara Averick** is another great person to follow on [Twitter](https://twitter.com/dataandme). She is renowned for posting tips and tricks to help with using R (and she uses A LOT of emojis `r emo::ji("avocado")``r emo::ji("dancing")``r emo::ji("sassy")`).
+
+### "How do I...?"
+
+[Do *anything*?](https://smach.github.io/R4JournalismBook/HowDoI.html) This is a pretty random assortment of useful commands. I would recommend trawling through it every so often and noting the commands you think might be useful for you in the future. 
+
+[Read an R Help Page?](https://socviz.co/appendix.html#a-little-more-about-r). This is **essential**.
+
+[Read an R error message?](http://rex-analytics.com/decoding-error-messages-r/) And so is **this**.
+
+### Asking for help
+
+For general questions, start [here](https://masalmon.eu/2018/07/22/wheretogethelp/). Maëlle Salmon's guide to asking for help in R is a great starting point for figuring out *how* to ask for help. 
+
+Those of you who identify as female `r emo::ji("woman")` can always reach out to [R-Ladies](https://rladies.org/) for help and support. R Ladies was founded to provide support and encourage positivity in the R community. They have been a huge success in encouraging R as a language of **diversity** and **inclusivity**, in a world where so many programming languages are dominated by men!
+
+[Stack Overflow](https://stackoverflow.com/) is the go-to site for general questions asked by individuals of all genders `r emo::ji("man")``r emo::ji("woman")`. But *beware*: it is notorious for being highly technical and for facilitating bullying. Nonetheless, it is a fantastic resource.
+
+### Data Carpentry
+
+This [workshop](http://home.cc.umanitoba.ca/~gersteia/MBIO7040/05-dplyr.html) by Aleeza Gerstein on data carpentry with `dplyr` is a great guide to beginning data carpentry. 
+
+<aside>
+"Data carpentry" is the craft of manipulating messy data and making it suitable for data analysis.
+</aside>
+
+### Developing your skills
+
+
+
+
+

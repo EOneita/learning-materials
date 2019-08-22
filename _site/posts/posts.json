@@ -1,5 +1,24 @@
 [
   {
+    "path": "posts/2019-08-22-a-collection-of-useful-sites-and-people/",
+    "title": "A Collection of Useful Sites and People",
+    "description": "**R** can be confusing and scary, but here are some resources that I hope will be helpful.",
+    "author": [
+      {
+        "name": "Elizabeth Oneita Davis",
+        "url": {}
+      }
+    ],
+    "date": "2019-08-22",
+    "categories": [
+      "tidyverse",
+      "rstats",
+      "reproducibility"
+    ],
+    "preview": {},
+    "last_modified": "2019-08-22T15:43:46-07:00"
+  },
+  {
     "path": "posts/2019-08-21-welcome-to-my-collection-of-learning-materials/",
     "title": "Welcome to My Collection of Learning Materials",
     "description": "Here are collected learning materials for using R for statistical data analysis, as well as publication-worthy visualizations.",
