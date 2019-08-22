@@ -1,10 +1,11 @@
 ---
 title: "Welcome to My Collection of Learning Materials"
 description: |
-  A short description of the post.
-Elizabeth Oneita Davis
-...
+  Here are collected learning materials for using R for statistical data analysis, as well as publication-worthy visualizations.
+author:
+  - name: Elizabeth Oneita Davis
 date: 08-21-2019
+preview: images/hankandi.jpg
 output:
   distill::distill_article:
     self_contained: false
@@ -15,7 +16,16 @@ knitr::opts_chunk$set(echo = FALSE)
 library(emo)
 ```
 
-Distill is a publication format for scientific and technical writing, native to the web.
+## Who am I?
 
-Learn more about using Distill at <https://rstudio.github.io/distill>.
+I'm **Elizabeth Oneita Davis**, a postdoctoral associate in [Community Engagement](https://institute.sandiegozoo.org/community-engagement) at the [San Diego Zoo Institute for Conservation Research](https://institute.sandiegozoo.org/). I work on illegal wildlife trade in Cambodia, Laos, and Vietnam. In the course of my role, I also teach statistics and data analysis, using **R**. My intention is for this website to serve as a repository of information for any past, present, or future students I may have.
+
+I also hope to eventually translate these materials into Vietnamese, so if you are a Vietnamese #rstats user who wants to collaborate in creating Vietnamese-language materials, please get in touch! 
+
+
+```{r, child="../../data/rmds/favicons-elizabeth-davis.Rmd"}
+```
+```{r, child="../../data/rmds/acknowledgment_profile_hank.Rmd"}
+```
+
 

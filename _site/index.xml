@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+    <title>Elizabeth Oneita Davis's Collected R Learning Materials</title>
+    <link>TBD</link>
+    <atom:link href="TBD/index.xml" rel="self" type="application/rss+xml"/>
+    <description>Elizabeth Oneita Davis's Collected R Learning Materials for past, present, and future students.
+</description>
+    <generator>Distill</generator>
+    <lastBuildDate>Wed, 21 Aug 2019 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Welcome to My Collection of Learning Materials</title>
+      <dc:creator>Elizabeth Oneita Davis</dc:creator>
+      <link>TBD/posts/2019-08-21-welcome-to-my-collection-of-learning-materials</link>
+      <description>Here are collected learning materials for using R for statistical data analysis, as well as publication-worthy visualizations.</description>
+      <guid>TBD/posts/2019-08-21-welcome-to-my-collection-of-learning-materials</guid>
+      <pubDate>Wed, 21 Aug 2019 00:00:00 +0000</pubDate>
+    </item>
+  </channel>
+</rss>

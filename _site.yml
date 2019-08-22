@@ -1,12 +1,18 @@
 name: "learning-materials"
 title: "Elizabeth Oneita Davis's Collected R Learning Materials"
 description: |
-  Elizabeth Oneita Davis's Collected R Learning Materials
-output_dir: "docs"
+  Elizabeth Oneita Davis's Collected R Learning Materials for past, present, and future students.
+output_dir: "_site"
 navbar:
   right:
     - text: "Home"
       href: index.html
     - text: "About"
       href: about.html
+    - icon: fa fa-rss
+      href: index.yml
+collections:
+  posts:
+    share: [twitter, researchgate]
+base_url: TBD
 output: distill::distill_article

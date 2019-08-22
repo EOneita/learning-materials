@@ -1,9 +1,11 @@
 ---
 title: "About this blog"
 description: |
-  Some additional details about the blog
+  A brief bio and welcome to the site
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
+
+I have been teaching **R** and data analysis for several years now, but haven't been very good at staying organized and keeping all of my helpful materials (and fun things) I have found in one place. I hope that this website will be a living, evolving repository of fascinating and useful information for my students, and for any one else who might get some benefit from it. 
