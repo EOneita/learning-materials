@@ -3,9 +3,11 @@ title: "A Collection of Useful Sites and People"
 description: |
   R can be confusing and scary, but here are some resources that I hope will be helpful.
 categories:
-  - tidyverse
+  - spatial analysis
   - rstats
-  - reproducibility
+  - data visualization
+  - xaringan
+  - r help
 author:
   - name: Elizabeth Oneita Davis
 date: 08-22-2019
@@ -18,6 +20,7 @@ output:
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
+knitr::opts_chunk$set(fig.width=6, fig.height=4) 
 library(emo)
 ```
 
@@ -34,7 +37,12 @@ My goal is for these resources to be more accessible to students in Vietnam. Ple
 [Phân tích số liệu và biểu đồ bằng](https://cran.r-project.org/doc/contrib/Intro_to_R_Vietnamese.pdf). Đây là nguồn tài nguyên tuyệt vời! 
 
 ### People 
-**[Danielle Navarro](https://twitter.com/djnavarro)** is an #rstats guru who is also very humble, funny, and helpful. She blogs about her experiences (and often frustrations!) with R, which shows that learning R is a constant process. In fact, she has been updating her very popular book **[Learning Statistics with R](https://learningstatisticswithr.com/)**, which has been invaluable for R users everywhere ![](images/partyr.png).
+**[Danielle Navarro](https://twitter.com/djnavarro)** is an #rstats guru who is also very humble, funny, and helpful. She blogs about her experiences (and often frustrations!) with R, which shows that learning R is a constant process. In fact, she has been updating her very popular book **[Learning Statistics with R](https://learningstatisticswithr.com/)**, which has been invaluable for R users everywhere. 
+
+
+```{r  out.width = "10%"}
+knitr::include_graphics("images/partyr.gif") 
+```
 
 **Maëlle Salmon** has an extensive [blog](https://masalmon.eu/) where she provides helpful tips and tricks and posts about interesting projects she is doing. Like Danielle, she is really active on [Twitter](https://twitter.com/ma_salmon).
 

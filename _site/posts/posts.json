@@ -11,12 +11,14 @@
     ],
     "date": "2019-08-22",
     "categories": [
-      "tidyverse",
+      "spatial analysis",
       "rstats",
-      "reproducibility"
+      "data visualization",
+      "xaringan",
+      "r help"
     ],
-    "preview": {},
-    "last_modified": "2019-08-23T09:55:45-07:00"
+    "preview": "posts/2019-08-22-a-collection-of-useful-sites-and-people/images/partyr.gif",
+    "last_modified": "2019-08-23T10:28:05-07:00"
   },
   {
     "path": "posts/2019-08-21-welcome-to-my-collection-of-learning-materials/",
@@ -30,7 +32,7 @@
     ],
     "date": "2019-08-21",
     "categories": [],
-    "preview": {},
-    "last_modified": "2019-08-22T13:28:10-07:00"
+    "preview": "posts/2019-08-21-welcome-to-my-collection-of-learning-materials/images/hankandi.jpg",
+    "last_modified": "2019-08-23T10:00:46-07:00"
   }
 ]
