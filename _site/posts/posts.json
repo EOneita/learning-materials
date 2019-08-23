@@ -23,7 +23,7 @@
   {
     "path": "posts/2019-08-21-welcome-to-my-collection-of-learning-materials/",
     "title": "Welcome to My Collection of Learning Materials",
-    "description": "Here are collected learning materials for using R for statistical data analysis, as well as publication-worthy visualizations.",
+    "description": "This site is where I will be storing my collected learning materials for using R for statistical data analysis, as well as for creating publication-worthy visualizations.",
     "author": [
       {
         "name": "Elizabeth Oneita Davis",
@@ -32,7 +32,7 @@
     ],
     "date": "2019-08-21",
     "categories": [],
-    "preview": "posts/2019-08-21-welcome-to-my-collection-of-learning-materials/images/hankandi.jpg",
-    "last_modified": "2019-08-23T10:00:46-07:00"
+    "preview": {},
+    "last_modified": "2019-08-23T10:32:47-07:00"
   }
 ]

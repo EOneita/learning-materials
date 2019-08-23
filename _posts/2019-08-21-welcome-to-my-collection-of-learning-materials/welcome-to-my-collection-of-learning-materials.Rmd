@@ -1,11 +1,11 @@
 ---
 title: "Welcome to My Collection of Learning Materials"
 description: |
-  Here are collected learning materials for using R for statistical data analysis, as well as publication-worthy visualizations.
+  This site is where I will be storing my collected learning materials for using R for statistical data analysis, as well as for creating publication-worthy visualizations.
 author:
   - name: Elizabeth Oneita Davis
 date: 08-21-2019
-preview: images/hankandi.jpg
+preview: none
 output:
   distill::distill_article:
     self_contained: false
