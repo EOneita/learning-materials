@@ -89,6 +89,8 @@ This [workshop](http://home.cc.umanitoba.ca/~gersteia/MBIO7040/05-dplyr.html) by
 
 If you're reading this, you'll hopefully be familiar with `ggplot2`. What you may not be as familiar with are the steps it takes to build a truly beautiful and informative ggplot. Luckily, **Cédric Scherer** has a [guide](https://cedricscherer.netlify.com/2019/05/17/the-evolution-of-a-ggplot-ep.-1/).
 
+The BBC have a great [guide](https://github.com/bbc/bbplot) to creating BBC publication-worthy visualization with `ggplot2`.
+
 ### Spatial Analysis
 
 [**Katie Jolly**](https://twitter.com/katiejolly6) is a spatial analyst R user, and she has a step by step [guide[(https://www.katiejolly.io/rladies-spatial/)] to visualizing quantities in an area. Her website has other spatial data workings, all with code!
@@ -112,6 +114,12 @@ The R community is constantly growing and evolving `r emo::ji("sunflower")`. I u
 Building slides for presentations in R is rewarding and perhaps most importantly, it's EASY! **Yihui Xie**'s guide to `xaringan` can be found [here](https://slides.yihui.name/xaringan/).
 
 I also just discovered this great [presentation](http://arm.rbind.io/slides/xaringan#1) by **Alison Hill** where she gives tips on creating beautiful slides. I fully recommend working through her presentation.
+
+### Fun stuff
+
+![](images/vaporwave.jpg)
+
+Make your graphs look kewl with the [**vapoRwave**](https://github.com/moldach/vapoRwave) package.
 
 
 
