@@ -1,13 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
-    <title>Elizabeth Oneita Davis's Collected R Learning Materials</title>
+    <title>E. O. Davis's Collected R Learning Materials</title>
     <link>TBD</link>
     <atom:link href="TBD/index.xml" rel="self" type="application/rss+xml"/>
     <description>Elizabeth Oneita Davis's Collected R Learning Materials for past, present, and future students.
 </description>
     <generator>Distill</generator>
-    <lastBuildDate>Thu, 22 Aug 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 23 Aug 2019 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Data Analysis (with dplyr)</title>
+      <dc:creator>Elizabeth Oneita Davis</dc:creator>
+      <link>TBD/posts/2019-08-23-data-analysis-with-dplyr</link>
+      <description>This is part II of my introductory course on stats and data analysis. (Part I is currently being reworked and will be uploaded when it has been redone.)</description>
+      <guid>TBD/posts/2019-08-23-data-analysis-with-dplyr</guid>
+      <pubDate>Fri, 23 Aug 2019 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>A Collection of Useful Sites and People</title>
       <dc:creator>Elizabeth Oneita Davis</dc:creator>

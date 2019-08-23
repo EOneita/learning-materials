@@ -1,0 +1,18 @@
+---
+title: "Data Analysis (with dplyr)"
+description: |
+  This is part II of my introductory course on stats and data analysis. (Part I is currently being reworked and will be uploaded when it has been redone.)
+  
+author: Elizabeth Oneita Davis
+date: 08-23-2019
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+The slides for this course can be found [here](vinh-R-part-II/vinh-R-part-II.html). Please let me know if you have comments or critiques. Huge thanks to **Aleeza Gerstein** for making her [workshop](http://home.cc.umanitoba.ca/~gersteia/MBIO7040/) in R for data analysis and visualization freely available, and to everyone on [this](https://twitter.com/__EODavis/status/1157786328597032961) Twitter thread for their very helpful suggestions and advice.
+

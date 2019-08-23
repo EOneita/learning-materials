@@ -1,5 +1,20 @@
 [
   {
+    "path": "posts/2019-08-23-data-analysis-with-dplyr/",
+    "title": "Data Analysis (with dplyr)",
+    "description": "This is part II of my introductory course on stats and data analysis. (Part I is currently being reworked and will be uploaded when it has been redone.)",
+    "author": [
+      {
+        "name": "Elizabeth Oneita Davis",
+        "url": {}
+      }
+    ],
+    "date": "2019-08-23",
+    "categories": [],
+    "preview": {},
+    "last_modified": "2019-08-23T10:53:44-07:00"
+  },
+  {
     "path": "posts/2019-08-22-a-collection-of-useful-sites-and-people/",
     "title": "A Collection of Useful Sites and People",
     "description": "R can be confusing and scary, but here are some resources that I hope will be helpful.",
@@ -18,7 +33,7 @@
       "r help"
     ],
     "preview": "posts/2019-08-22-a-collection-of-useful-sites-and-people/images/partyr.gif",
-    "last_modified": "2019-08-23T10:40:43-07:00"
+    "last_modified": "2019-08-23T10:48:19-07:00"
   },
   {
     "path": "posts/2019-08-21-welcome-to-my-collection-of-learning-materials/",
