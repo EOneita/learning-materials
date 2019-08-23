@@ -93,7 +93,7 @@ The BBC have a great [guide](https://github.com/bbc/bbplot) to creating BBC publ
 
 ### Spatial Analysis
 
-[**Katie Jolly**](https://twitter.com/katiejolly6) is a spatial analyst R user, and she has a step by step [guide[(https://www.katiejolly.io/rladies-spatial/)] to visualizing quantities in an area. Her website has other spatial data workings, all with code!
+[**Katie Jolly**](https://twitter.com/katiejolly6) is a spatial analyst R user, and she has a step by step [guide][(https://www.katiejolly.io/rladies-spatial/) to visualizing quantities in an area. Her website has other spatial data workings, all with code!
 
 <aside> 
 I am NOT good at spatial analysis, but I truly admire people who are. It is such a useful skill!
