@@ -1,7 +1,7 @@
 ---
 title: "A Collection of Useful Sites and People"
 description: |
-  **R** can be confusing and scary, but here are some resources that I hope will be helpful.
+  R can be confusing and scary, but here are some resources that I hope will be helpful.
 categories:
   - tidyverse
   - rstats
@@ -32,6 +32,8 @@ library(emo)
 
 **Mara Averick** is another great person to follow on [Twitter](https://twitter.com/dataandme). She is renowned for posting tips and tricks to help with using R (and she uses A LOT of emojis `r emo::ji("avocado")``r emo::ji("dancing")``r emo::ji("sassy")`).
 
+>In general, I would recommend getting Twitter, if you don't have it already, and following the people named here as well as others in the R community (#rstats to see what everyone is tweeting about!).
+
 ### "How do I...?"
 
 [Do *anything*?](https://smach.github.io/R4JournalismBook/HowDoI.html) This is a pretty random assortment of useful commands. I would recommend trawling through it every so often and noting the commands you think might be useful for you in the future. 
@@ -56,7 +58,34 @@ This [workshop](http://home.cc.umanitoba.ca/~gersteia/MBIO7040/05-dplyr.html) by
 "Data carpentry" is the craft of manipulating messy data and making it suitable for data analysis.
 </aside>
 
+### Data Visualization
+
+[Claus Wilke](https://twitter.com/ClausWilke)'s [*Fundamentals of Data Visualization*](https://serialmentor.com/dataviz/) was recently published, and should be essential reading for any R user embarking on data analysis (i.e., everyone!).
+
+Kieran Healy is another big name in data visualization, and his comprehensive [guide](https://socviz.co/) covers EVERYTHING. It's a little "higher level" compared to Claus's book, so start with *Fundamentals of Data Visualization* first.
+
+If you're reading this, you'll hopefully be familiar with `ggplot2`. What you may not be as familiar with are the steps it takes to build a truly beautiful and informative ggplot. Luckily, Cédric Scherer has a [guide](https://cedricscherer.netlify.com/2019/05/17/the-evolution-of-a-ggplot-ep.-1/).
+
+### Spatial Analysis
+
+[Katie Jolly](https://twitter.com/katiejolly6) is a spatial analyst R user, and she has a step by step [guide[(https://www.katiejolly.io/rladies-spatial/)] to visualizing quantities in an area. Her website has other spatial data workings, all with code!
+
+<aside> 
+I am NOT good at spatial analysis, but I truly admire people who are. It is such a useful skill!
+</aside>
+
+This is a really cool [way](https://cartographicperspectives.org/index.php/journal/article/view/1536/1726) to visualize cartographic lines, although I'm not sure how useful it is.
+
+
+
 ### Developing your skills
+
+The R community is constantly growing and evolving `r emo::ji("sunflower")`. I used to find it daunting to keep up with everything, but [R-weekly](https://rweekly.org/) makes it easy to do just that! I recommend making it part of your Monday housekeeping to check it out.
+
+[Yihui Xie](https://yihui.name/en/) is a mad genius and one of the key thinkers behind much of "advanced R", such as `rmarkdown` and `xaringan`. Keep an eye on what he's up to, because his work is an indicator of the direction R is going in. And read his guides! He is one of the best R gurus for explaining advanced concepts thoroughly and clearly.
+
+
+
 
 
 
