@@ -21,12 +21,20 @@ knitr::opts_chunk$set(echo = FALSE)
 library(emo)
 ```
 
-## General R Help and Learning
-
 >The most important resources on this page are **"How do I read a help file?"** and  **"decoding error messages in R"**. Trust me! Understanding these will change your life for the better.
 
+<aside>
+My goal is for these resources to be more accessible to students in Vietnam. Please let me know in the comments if there are errors in the Vietnamese translation (in Vietnamese is fine).
+</aside>
+
+>Các tài nguyên quan trọng nhất trên trang này là **"Làm cách nào để đọc tệp trợ giúp?"** và **"giải mã các thông báo lỗi trong R"**. Tin tôi đi! Hiểu những điều này sẽ thay đổi cuộc sống của bạn tốt hơn.
+
+### Hướng Dẫn Tiếng Việt Về R `r emo::ji("vietnam")`
+
+[Phân tích số liệu và biểu đồ bằng](https://cran.r-project.org/doc/contrib/Intro_to_R_Vietnamese.pdf). Đây là nguồn tài nguyên tuyệt vời! 
+
 ### People 
-**[Danielle Navarro](https://twitter.com/djnavarro)** is an #rstats guru who is also very humble, funny, and helpful. She blogs about her experiences (and often frustrations!) with R, which shows that learning R is a constant process. In fact, she has been updating her very popular book **[Learning Statistics with R](https://learningstatisticswithr.com/)**, which has been invaluable for R users everywhere ![](_site/images/partyr.gif).
+**[Danielle Navarro](https://twitter.com/djnavarro)** is an #rstats guru who is also very humble, funny, and helpful. She blogs about her experiences (and often frustrations!) with R, which shows that learning R is a constant process. In fact, she has been updating her very popular book **[Learning Statistics with R](https://learningstatisticswithr.com/)**, which has been invaluable for R users everywhere ![](images/partyr.png).
 
 **Maëlle Salmon** has an extensive [blog](https://masalmon.eu/) where she provides helpful tips and tricks and posts about interesting projects she is doing. Like Danielle, she is really active on [Twitter](https://twitter.com/ma_salmon).
 
@@ -52,7 +60,7 @@ Those of you who identify as female `r emo::ji("woman")` can always reach out to
 
 ### Data Carpentry
 
-This [workshop](http://home.cc.umanitoba.ca/~gersteia/MBIO7040/05-dplyr.html) by Aleeza Gerstein on data carpentry with `dplyr` is a great guide to beginning data carpentry. 
+This [workshop](http://home.cc.umanitoba.ca/~gersteia/MBIO7040/05-dplyr.html) by **Aleeza Gerstein** on data carpentry with `dplyr` is a great guide to beginning data carpentry. 
 
 <aside>
 "Data carpentry" is the craft of manipulating messy data and making it suitable for data analysis.
@@ -60,15 +68,15 @@ This [workshop](http://home.cc.umanitoba.ca/~gersteia/MBIO7040/05-dplyr.html) by
 
 ### Data Visualization
 
-[Claus Wilke](https://twitter.com/ClausWilke)'s [*Fundamentals of Data Visualization*](https://serialmentor.com/dataviz/) was recently published, and should be essential reading for any R user embarking on data analysis (i.e., everyone!).
+[**Claus Wilke**](https://twitter.com/ClausWilke)'s [*Fundamentals of Data Visualization*](https://serialmentor.com/dataviz/) was recently published, and should be essential reading for any R user embarking on data analysis (i.e., everyone!).
 
-Kieran Healy is another big name in data visualization, and his comprehensive [guide](https://socviz.co/) covers EVERYTHING. It's a little "higher level" compared to Claus's book, so start with *Fundamentals of Data Visualization* first.
+**Kieran Healy** is another big name in data visualization, and his comprehensive [guide](https://socviz.co/) covers EVERYTHING. It's a little "higher level" compared to Claus's book, so start with *Fundamentals of Data Visualization* first.
 
-If you're reading this, you'll hopefully be familiar with `ggplot2`. What you may not be as familiar with are the steps it takes to build a truly beautiful and informative ggplot. Luckily, Cédric Scherer has a [guide](https://cedricscherer.netlify.com/2019/05/17/the-evolution-of-a-ggplot-ep.-1/).
+If you're reading this, you'll hopefully be familiar with `ggplot2`. What you may not be as familiar with are the steps it takes to build a truly beautiful and informative ggplot. Luckily, **Cédric Scherer** has a [guide](https://cedricscherer.netlify.com/2019/05/17/the-evolution-of-a-ggplot-ep.-1/).
 
 ### Spatial Analysis
 
-[Katie Jolly](https://twitter.com/katiejolly6) is a spatial analyst R user, and she has a step by step [guide[(https://www.katiejolly.io/rladies-spatial/)] to visualizing quantities in an area. Her website has other spatial data workings, all with code!
+[**Katie Jolly**](https://twitter.com/katiejolly6) is a spatial analyst R user, and she has a step by step [guide[(https://www.katiejolly.io/rladies-spatial/)] to visualizing quantities in an area. Her website has other spatial data workings, all with code!
 
 <aside> 
 I am NOT good at spatial analysis, but I truly admire people who are. It is such a useful skill!
@@ -76,13 +84,21 @@ I am NOT good at spatial analysis, but I truly admire people who are. It is such
 
 This is a really cool [way](https://cartographicperspectives.org/index.php/journal/article/view/1536/1726) to visualize cartographic lines, although I'm not sure how useful it is.
 
-
+To make truly expert quality maps, there is no better resource than **Timo Grossenbacher's** [post](https://timogrossenbacher.ch/2019/04/bivariate-maps-with-ggplot2-and-sf/). I still haven't managed to make a map that looks this good in `ggplot2`, but I'm going to keep trying until I do!
 
 ### Developing your skills
 
 The R community is constantly growing and evolving `r emo::ji("sunflower")`. I used to find it daunting to keep up with everything, but [R-weekly](https://rweekly.org/) makes it easy to do just that! I recommend making it part of your Monday housekeeping to check it out.
 
-[Yihui Xie](https://yihui.name/en/) is a mad genius and one of the key thinkers behind much of "advanced R", such as `rmarkdown` and `xaringan`. Keep an eye on what he's up to, because his work is an indicator of the direction R is going in. And read his guides! He is one of the best R gurus for explaining advanced concepts thoroughly and clearly.
+[Yihui Xie](https://yihui.name/en/) `r emo::ji("china")` is a mad genius and one of the key thinkers behind much of "advanced R", such as `rmarkdown` and `xaringan`. Keep an eye on what he's up to, because his work is an indicator of the direction R is going in. And read his guides! He is one of the best R gurus for explaining advanced concepts thoroughly and clearly.
+
+### Speaking of `xaringan`...
+
+Building slides for presentations in R is rewarding and perhaps most importantly, it's EASY! **Yihui Xie**'s guide to `xaringan` can be found [here](https://slides.yihui.name/xaringan/).
+
+I also just discovered this great [presentation](http://arm.rbind.io/slides/xaringan#1) by **Alison Hill** where she gives tips on creating beautiful slides. I fully recommend working through her presentation.
+
+
 
 
 
