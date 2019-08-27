@@ -120,6 +120,9 @@ The R community is constantly growing and evolving `r emo::ji("sunflower")`. I u
 
 **Emily Riederer** wrote a hgihly influential blog [post](https://emilyriederer.netlify.com/post/rmarkdown-driven-development/) on using R markdown to create a better workflow and reproducible code. This will be a bit advanced for new users, but is also *very much* worth reading closely as you become more comfortable with R. I wish I had read somethingl ike this before I picked up a lot of bad habits!!
 
+### Package development
+As you get more comfortable with R and R markdown, it is beneficial to learn, and/or become comfortable with, package development. This ensures *reproducibility* and can make your life a lot easier if you find yourself writing the same functions (or analyses!) over and over. The premier post that users galore have turned to is **Hilary Parker**'s ["Writing an R package from scratch"](https://hilaryparker.com/2014/04/29/writing-an-r-package-from-scratch/). Also check out **Maëlle Salmon**'s [post](https://masalmon.eu/2017/12/11/goodrpackages/), which contains helpful tips around the development of R packages.
+
 ### Reporting your results
 Although I think it's important to know how to report your statistical analyses yourself to ensure that you fully understand what you did, [`report`](https://github.com/easystats/report) is a dream come true for explaining your results in a clear and standardized way. Nonetheless, **use this tool *only* when you are confident in your understanding of the analysis you are doing**.
 
