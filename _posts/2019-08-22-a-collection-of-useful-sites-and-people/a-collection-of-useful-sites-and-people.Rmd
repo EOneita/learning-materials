@@ -98,6 +98,8 @@ If you're reading this, you'll hopefully be familiar with `ggplot2`. What you ma
 
 The BBC have a great [guide](https://github.com/bbc/bbplot) to creating BBC publication-worthy visualization with `ggplot2`.
 
+A collection of themes that will make your plots look visually appealing can be found [here](https://rfortherestofus.com/2019/08/themes-to-improve-your-ggplot-figures/). 
+
 ### Spatial Analysis
 
 [**Katie Jolly**](https://twitter.com/katiejolly6) is a spatial analyst R user, and she has a step by step [guide][(https://www.katiejolly.io/rladies-spatial/) to visualizing quantities in an area. Her website has other spatial data workings, all with code!
@@ -115,6 +117,11 @@ To make truly expert quality maps, there is no better resource than **Timo Gross
 The R community is constantly growing and evolving `r emo::ji("sunflower")`. I used to find it daunting to keep up with everything, but [R-weekly](https://rweekly.org/) makes it easy to do just that! I recommend making it part of your Monday housekeeping to check it out.
 
 [Yihui Xie](https://yihui.name/en/) `r emo::ji("china")` is a genius and one of the key thinkers behind much of "advanced R", such as `rmarkdown` and `xaringan`. Keep an eye on what he's up to, because his work is an indicator of the direction R is going in. And read his guides! He is one of the best R gurus for explaining advanced concepts thoroughly and clearly.
+
+**Emily Riederer** wrote a hgihly influential blog [post](https://emilyriederer.netlify.com/post/rmarkdown-driven-development/) on using R markdown to create a better workflow and reproducible code. This will be a bit advanced for new users, but is also *very much* worth reading closely as you become more comfortable with R. I wish I had read somethingl ike this before I picked up a lot of bad habits!!
+
+### Reporting your results
+Although I think it's important to know how to report your statistical analyses yourself to ensure that you fully understand what you did, [`report`](https://github.com/easystats/report) is a dream come true for explaining your results in a clear and standardized way. Nonetheless, **use this tool *only* when you are confident in your understanding of the analysis you are doing**.
 
 ### Speaking of `xaringan`...
 
