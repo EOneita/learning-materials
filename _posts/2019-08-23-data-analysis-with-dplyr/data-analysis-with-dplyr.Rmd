@@ -2,7 +2,11 @@
 title: "Data Analysis (with dplyr)"
 description: |
   This is part II of my introductory course on stats and data analysis. (Part I is currently being reworked and will be uploaded when it has been redone.)
-  
+categories:
+  - data analysis
+  - rstats
+  - dplyr
+  - xaringan
 author: Elizabeth Oneita Davis
 date: 08-23-2019
 output:
