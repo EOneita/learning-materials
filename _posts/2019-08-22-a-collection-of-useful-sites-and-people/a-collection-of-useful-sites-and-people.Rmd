@@ -45,7 +45,7 @@ In fact, everything on this page is free. R is committed to open source and ther
 </aside>
 
 ### People 
-**[Danielle Navarro](https://twitter.com/djnavarro)** is an #rstats guru who is also very humble, funny, and helpful. She blogs about her experiences (and often frustrations!) with R, which shows that learning R is a constant process. In fact, she has been updating her very popular book **[Learning Statistics with R](https://learningstatisticswithr.com/)**, which has been invaluable for R users everywhere. 
+**[Danielle Navarro](https://twitter.com/djnavarro)** is an #rstats guru who is also very humble, funny, and helpful. She blogs about her experiences (and often frustrations!) with R, which shows that learning R is a constant process. Plus, she has been updating her very popular book **[Learning Statistics with R](https://learningstatisticswithr.com/)**, which has been invaluable for R users everywhere. 
 
 
 ```{r  out.width = "10%", include = "false"}
