@@ -37,11 +37,18 @@ My goal is for these resources to be more accessible to students in Vietnam. Ple
 
 [Phân tích số liệu và biểu đồ bằng](https://cran.r-project.org/doc/contrib/Intro_to_R_Vietnamese.pdf). Đây là nguồn tài nguyên tuyệt vời! 
 
+### Getting started with R
+I recently discovered this adorable giraffe themed [R course](https://tinystats.github.io/teacups-giraffes-and-statistics) `r emo::ji("giraffe")`, which I would recommend any new user to R start off with. It's an aesthetically pleasing primer and best of all, it's free!
+
+<aside>
+In fact, everything on this page is free. R is committed to open source and there is a plethora of freely available materials, more than I can collect here.
+</aside>
+
 ### People 
 **[Danielle Navarro](https://twitter.com/djnavarro)** is an #rstats guru who is also very humble, funny, and helpful. She blogs about her experiences (and often frustrations!) with R, which shows that learning R is a constant process. In fact, she has been updating her very popular book **[Learning Statistics with R](https://learningstatisticswithr.com/)**, which has been invaluable for R users everywhere. 
 
 
-```{r  out.width = "10%"}
+```{r  out.width = "10%", include = "false"}
 knitr::include_graphics("images/partyr.gif") 
 ```
 
