@@ -17,6 +17,8 @@ output:
   distill::distill_article:
     toc: true
     self_contained: false
+    nature: 
+      beforeInit: "https://platform.twitter.com/widgets.js"
 ---
 
 ```{r setup, include=FALSE}
@@ -32,6 +34,12 @@ My goal is for these resources to be more accessible to students in Vietnam. Ple
 </aside>
 
 >Các tài nguyên quan trọng nhất trên trang này là **"Làm cách nào để đọc tệp trợ giúp?"** và **"giải mã các thông báo lỗi trong R"**. Tin tôi đi! Hiểu những điều này sẽ thay đổi cuộc sống của bạn tốt hơn.
+
+And before you get started going through these materials, **read this**:
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Added an <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> pep talk to my syllabus to assuage fears <a href="https://t.co/EciFlMuUza">pic.twitter.com/EciFlMuUza</a></p>&mdash; Andrew Heiss, PhD (@andrewheiss) <a href="https://twitter.com/andrewheiss/status/1165310391750189063?ref_src=twsrc%5Etfw">August 24, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+This is so important to know. R is challenging and frustrating for EVERYONE, and yet it is also so rewarding as well. Get used to making mistakes and figuring things out!
 
 ### Hướng Dẫn Tiếng Việt Về R `r emo::ji("vietnam")`
 
