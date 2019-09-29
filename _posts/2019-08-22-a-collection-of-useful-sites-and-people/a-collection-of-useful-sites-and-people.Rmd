@@ -104,6 +104,8 @@ The BBC have a great [guide](https://github.com/bbc/bbplot) to creating BBC publ
 
 A collection of themes that will make your plots look visually appealing can be found [here](https://rfortherestofus.com/2019/08/themes-to-improve-your-ggplot-figures/). 
 
+Are your plots looking sad and boring? Here is a [guide](https://alison.netlify.com/rlm-sad-plot-better/#1) that will help you make them better.
+
 ### Spatial Analysis
 
 [**Katie Jolly**](https://twitter.com/katiejolly6) is a spatial analyst R user, and she has a step by step [guide][(https://www.katiejolly.io/rladies-spatial/) to visualizing quantities in an area. Her website has other spatial data workings, all with code!
@@ -134,7 +136,10 @@ Although I think it's important to know how to report your statistical analyses 
 
 Building slides for presentations in R is rewarding and perhaps most importantly, it's EASY! **Yihui Xie**'s guide to `xaringan` can be found [here](https://slides.yihui.name/xaringan/).
 
+`xaringan` doesn't come with too many themes out of the box, but [this](https://github.com/gadenbuie/xaringanthemer) R package by **Garrick Aden-Buie** provides some slick options.
+
 I also just discovered this great [presentation](http://arm.rbind.io/slides/xaringan#1) by **Alison Hill** where she gives tips on creating beautiful slides. I fully recommend working through her presentation.
+
 
 ### Fun stuff
 
