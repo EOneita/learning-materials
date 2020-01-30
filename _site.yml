@@ -4,6 +4,8 @@ description: |
   Elizabeth Oneita Davis's Collected R Learning Materials for past, present, and future students.
 output_dir: "_site"
 navbar:
+logo:
+    image: images/profile-pic.png
   right:
     - text: "Home"
       href: index.html
